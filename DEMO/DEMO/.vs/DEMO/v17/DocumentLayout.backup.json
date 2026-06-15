@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\repositories\\UFide\\Progra Avanzada _\\2026\\AP-Demo\\DEMO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53EA6366-50FC-48BA-BCD6-CE052AF336C3}|..\\..\\AP-CP2\\AP.MVC\\AP.MVC.csproj|e:\\repositories\\ufide\\progra avanzada _\\2026\\ap-cp2\\ap.mvc\\controllers\\fooditemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EA6366-50FC-48BA-BCD6-CE052AF336C3}|..\\..\\AP-CP2\\AP.MVC\\AP.MVC.csproj|e:\\repositories\\ufide\\progra avanzada _\\2026\\ap-cp2\\ap.mvc\\views\\fooditems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EA6366-50FC-48BA-BCD6-CE052AF336C3}|..\\..\\AP-CP2\\AP.MVC\\AP.MVC.csproj|e:\\repositories\\ufide\\progra avanzada _\\2026\\ap-cp2\\ap.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EA6366-50FC-48BA-BCD6-CE052AF336C3}|..\\..\\AP-CP2\\AP.MVC\\AP.MVC.csproj|e:\\repositories\\ufide\\progra avanzada _\\2026\\ap-cp2\\ap.mvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EA6366-50FC-48BA-BCD6-CE052AF336C3}|..\\..\\AP-CP2\\AP.MVC\\AP.MVC.csproj|e:\\repositories\\ufide\\progra avanzada _\\2026\\ap-cp2\\ap.mvc\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE30711-F227-48D7-9366-A14B50109234}|AP.Data\\AP.Data.csproj|e:\\repositories\\ufide\\progra avanzada _\\2026\\ap-demo\\demo\\ap.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7FE30711-F227-48D7-9366-A14B50109234}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8777F1DB-2FB9-4E02-A5B5-E37095F1D18C}|AP.Business\\AP.Business.csproj|e:\\repositories\\ufide\\progra avanzada _\\2026\\ap-demo\\demo\\ap.business\\fooditemsbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8777F1DB-2FB9-4E02-A5B5-E37095F1D18C}|AP.Business\\AP.Business.csproj|solutionrelative:ap.business\\fooditemsbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE126B7-3FF2-4C40-B4A8-68B54F6B5989}|AP.Repository\\AP.Repository.csproj|e:\\repositories\\ufide\\progra avanzada _\\2026\\ap-demo\\demo\\ap.repository\\fooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE126B7-3FF2-4C40-B4A8-68B54F6B5989}|AP.Repository\\AP.Repository.csproj|solutionrelative:ap.repository\\fooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE126B7-3FF2-4C40-B4A8-68B54F6B5989}|AP.Repository\\AP.Repository.csproj|e:\\repositories\\ufide\\progra avanzada _\\2026\\ap-demo\\demo\\ap.repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE126B7-3FF2-4C40-B4A8-68B54F6B5989}|AP.Repository\\AP.Repository.csproj|solutionrelative:ap.repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE30711-F227-48D7-9366-A14B50109234}|AP.Data\\AP.Data.csproj|e:\\repositories\\ufide\\progra avanzada _\\2026\\ap-demo\\demo\\ap.data\\foodbankmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{7FE30711-F227-48D7-9366-A14B50109234}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\foodbankmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EA6366-50FC-48BA-BCD6-CE052AF336C3}|..\\..\\AP-CP2\\AP.MVC\\AP.MVC.csproj|e:\\repositories\\ufide\\progra avanzada _\\2026\\ap-cp2\\ap.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 460,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada _\\2026\\AP-CP2\\AP.MVC\\Views\\FoodItems\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\AP-CP2\\AP.MVC\\Views\\FoodItems\\Index.cshtml",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada _\\2026\\AP-CP2\\AP.MVC\\Views\\FoodItems\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\AP-CP2\\AP.MVC\\Views\\FoodItems\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T01:50:01.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FoodItemsController.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada _\\2026\\AP-CP2\\AP.MVC\\Controllers\\FoodItemsController.cs",
+              "RelativeDocumentMoniker": "..\\..\\AP-CP2\\AP.MVC\\Controllers\\FoodItemsController.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada _\\2026\\AP-CP2\\AP.MVC\\Controllers\\FoodItemsController.cs",
+              "RelativeToolTip": "..\\..\\AP-CP2\\AP.MVC\\Controllers\\FoodItemsController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAIwBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T01:29:34.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada _\\2026\\AP-CP2\\AP.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\AP-CP2\\AP.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada _\\2026\\AP-CP2\\AP.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\..\\AP-CP2\\AP.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T01:28:29.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada _\\2026\\AP-CP2\\AP.MVC\\Web.config",
+              "RelativeDocumentMoniker": "..\\..\\AP-CP2\\AP.MVC\\Web.config",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada _\\2026\\AP-CP2\\AP.MVC\\Web.config",
+              "RelativeToolTip": "..\\..\\AP-CP2\\AP.MVC\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-09T01:26:45.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada _\\2026\\AP-CP2\\AP.MVC\\packages.config",
+              "RelativeDocumentMoniker": "..\\..\\AP-CP2\\AP.MVC\\packages.config",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada _\\2026\\AP-CP2\\AP.MVC\\packages.config",
+              "RelativeToolTip": "..\\..\\AP-CP2\\AP.MVC\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-09T01:26:44.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.Config",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada _\\2026\\AP-Demo\\DEMO\\AP.Data\\App.Config",
+              "RelativeDocumentMoniker": "AP.Data\\App.Config",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada _\\2026\\AP-Demo\\DEMO\\AP.Data\\App.Config",
+              "RelativeToolTip": "AP.Data\\App.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-09T01:26:29.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FoodItemRepository.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada _\\2026\\AP-Demo\\DEMO\\AP.Repository\\FoodItemRepository.cs",
+              "RelativeDocumentMoniker": "AP.Repository\\FoodItemRepository.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada _\\2026\\AP-Demo\\DEMO\\AP.Repository\\FoodItemRepository.cs",
+              "RelativeToolTip": "AP.Repository\\FoodItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T00:44:56.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada _\\2026\\AP-Demo\\DEMO\\AP.Repository\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "AP.Repository\\RepositoryBase.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada _\\2026\\AP-Demo\\DEMO\\AP.Repository\\RepositoryBase.cs",
+              "RelativeToolTip": "AP.Repository\\RepositoryBase.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAjwFoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T00:45:40.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FoodbankModel.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada _\\2026\\AP-Demo\\DEMO\\AP.Data\\FoodbankModel.edmx",
+              "RelativeDocumentMoniker": "AP.Data\\FoodbankModel.edmx",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada _\\2026\\AP-Demo\\DEMO\\AP.Data\\FoodbankModel.edmx [Diagram1]",
+              "RelativeToolTip": "AP.Data\\FoodbankModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-06-09T00:40:28.201Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada _\\2026\\AP-CP2\\AP.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\AP-CP2\\AP.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada _\\2026\\AP-CP2\\AP.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\..\\AP-CP2\\AP.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T00:30:24.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FoodItemsBusiness.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada _\\2026\\AP-Demo\\DEMO\\AP.Business\\FoodItemsBusiness.cs",
+              "RelativeDocumentMoniker": "AP.Business\\FoodItemsBusiness.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada _\\2026\\AP-Demo\\DEMO\\AP.Business\\FoodItemsBusiness.cs",
+              "RelativeToolTip": "AP.Business\\FoodItemsBusiness.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T00:27:38.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 486,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

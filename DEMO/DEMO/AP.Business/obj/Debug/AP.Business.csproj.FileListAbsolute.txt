@@ -1,0 +1,30 @@
+E:\repositories\UFide\Progra Avanzada _\2026\AP-Demo\DEMO\AP.Business\bin\Debug\AP.Business.dll
+E:\repositories\UFide\Progra Avanzada _\2026\AP-Demo\DEMO\AP.Business\bin\Debug\AP.Business.pdb
+E:\repositories\UFide\Progra Avanzada _\2026\AP-Demo\DEMO\AP.Business\obj\Debug\AP.Business.csproj.AssemblyReference.cache
+E:\repositories\UFide\Progra Avanzada _\2026\AP-Demo\DEMO\AP.Business\obj\Debug\AP.Business.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada _\2026\AP-Demo\DEMO\AP.Business\obj\Debug\AP.Business.dll
+E:\repositories\UFide\Progra Avanzada _\2026\AP-Demo\DEMO\AP.Business\obj\Debug\AP.Business.pdb
+E:\repositories\UFide\Progra Avanzada _\2026\AP-Demo\DEMO\AP.Business\bin\Debug\AP.Data.dll
+E:\repositories\UFide\Progra Avanzada _\2026\AP-Demo\DEMO\AP.Business\bin\Debug\AP.Repository.dll
+E:\repositories\UFide\Progra Avanzada _\2026\AP-Demo\DEMO\AP.Business\bin\Debug\EntityFramework.dll
+E:\repositories\UFide\Progra Avanzada _\2026\AP-Demo\DEMO\AP.Business\bin\Debug\AP.Data.pdb
+E:\repositories\UFide\Progra Avanzada _\2026\AP-Demo\DEMO\AP.Business\bin\Debug\AP.Data.dll.config
+E:\repositories\UFide\Progra Avanzada _\2026\AP-Demo\DEMO\AP.Business\bin\Debug\AP.Repository.pdb
+E:\repositories\UFide\Progra Avanzada _\2026\AP-Demo\DEMO\AP.Business\bin\Debug\AP.Repository.dll.config
+E:\repositories\UFide\Progra Avanzada _\2026\AP-Demo\DEMO\AP.Business\bin\Debug\EntityFramework.xml
+E:\repositories\UFide\Progra Avanzada _\2026\AP-Demo\DEMO\AP.Business\obj\Debug\AP.Busin.DCD8A883.Up2Date
+C:\Users\XSF\Documents\Universidad\Programacion Avanzada\Proyectos\DEMO\DEMO\AP.Business\obj\Debug\AP.Business.csproj.AssemblyReference.cache
+C:\Users\XSF\Documents\Universidad\Programacion Avanzada\Proyectos\DEMO\DEMO\AP.Business\obj\Debug\AP.Business.csproj.CoreCompileInputs.cache
+C:\Users\XSF\Documents\Universidad\Programacion Avanzada\Proyectos\DEMO\DEMO\AP.Business\bin\Debug\AP.Business.dll
+C:\Users\XSF\Documents\Universidad\Programacion Avanzada\Proyectos\DEMO\DEMO\AP.Business\bin\Debug\AP.Business.pdb
+C:\Users\XSF\Documents\Universidad\Programacion Avanzada\Proyectos\DEMO\DEMO\AP.Business\bin\Debug\AP.Data.dll
+C:\Users\XSF\Documents\Universidad\Programacion Avanzada\Proyectos\DEMO\DEMO\AP.Business\bin\Debug\AP.Repository.dll
+C:\Users\XSF\Documents\Universidad\Programacion Avanzada\Proyectos\DEMO\DEMO\AP.Business\bin\Debug\EntityFramework.dll
+C:\Users\XSF\Documents\Universidad\Programacion Avanzada\Proyectos\DEMO\DEMO\AP.Business\bin\Debug\AP.Data.pdb
+C:\Users\XSF\Documents\Universidad\Programacion Avanzada\Proyectos\DEMO\DEMO\AP.Business\bin\Debug\AP.Data.dll.config
+C:\Users\XSF\Documents\Universidad\Programacion Avanzada\Proyectos\DEMO\DEMO\AP.Business\bin\Debug\AP.Repository.pdb
+C:\Users\XSF\Documents\Universidad\Programacion Avanzada\Proyectos\DEMO\DEMO\AP.Business\bin\Debug\AP.Repository.dll.config
+C:\Users\XSF\Documents\Universidad\Programacion Avanzada\Proyectos\DEMO\DEMO\AP.Business\bin\Debug\EntityFramework.xml
+C:\Users\XSF\Documents\Universidad\Programacion Avanzada\Proyectos\DEMO\DEMO\AP.Business\obj\Debug\AP.Busin.DCD8A883.Up2Date
+C:\Users\XSF\Documents\Universidad\Programacion Avanzada\Proyectos\DEMO\DEMO\AP.Business\obj\Debug\AP.Business.dll
+C:\Users\XSF\Documents\Universidad\Programacion Avanzada\Proyectos\DEMO\DEMO\AP.Business\obj\Debug\AP.Business.pdb
